@@ -1,3 +1,4 @@
-Hello, I am a student that is interested in programming.
+CS @ Northwestern
+https://www.linkedin.com/in/jayden-huang-009633246/
 
 
